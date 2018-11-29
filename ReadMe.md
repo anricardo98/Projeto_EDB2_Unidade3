@@ -14,7 +14,8 @@ Ambos os projetos foram desenvolvidos utilizando a linguagem python.
 Árvore AVL:
 
 - Apresenta duas classes, sendo elas no_AVL e a classe Arvore_AVL, além de duas funções externas.
-classe no_AVL apresenta como métodos:
+
+A classe no_AVL apresenta como métodos:
 
 - buscar: responsável pela localização de um determinado nó na árvore.
 - inserir: Responsável pela inserção de um filho em determinado nó.
@@ -22,7 +23,7 @@ classe no_AVL apresenta como métodos:
 - buscar_maior: Busca o maior membro da árvore a partir de determinado nó.
 - antecessor: Busca o elemento antecessor ao nó indicado.
 
-classe Arvore_AVL:
+A classe Arvore_AVL apresenta como métodos:
 - buscar: fazendo uso da busca anterior, devolve o nó com a chave indicada.
 - inserir: responsável pela criação do nó e inserção deste na árvore.
 - remover: responsável pela remoção de um nó da árvore.
